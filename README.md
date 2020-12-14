@@ -5,7 +5,7 @@ A repo for Kaggle competition projects.
 
 ## digit-recognize
 
-2D convolutional neural network capable of classifying handwritten digits 0-9 from the MNIST dataset with an accuracy of 99.825%. Competition rank: 113/2820.
+2D convolutional neural network capable of classifying handwritten digits 0-9 from the MNIST dataset. Accuracy: 0.99825. Competition rank: 113/2820.
 
 ## housing-prices
 
